@@ -1,0 +1,4 @@
+1. tkinter
+2. pyaudio
+3. webbrowser
+4. speech_recognition
